@@ -24,7 +24,7 @@ export default function SignInPage() {
             </svg>
 
             <h1 className="mt-3 text-base font-bold tracking-wide text-black uppercase">
-              Sign in to Clover
+              Sign In To Jinx-E
             </h1>
           </header>
 
