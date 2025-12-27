@@ -1,12 +1,17 @@
 import { Button } from "@/components/ui/button";
+import Header from "./_components/Header";
 import Image from "next/image";
+import Hero from "./_components/Hero";
 // Default page of the application
 
 export default function Home() {
   return (
     <div>
-      <h1 className="font-game text-3xl">Welcome To CodeVault</h1>
-      <Button>Subscribe</Button>
+      {/* Header / Navabar */}
+      <Header />
+        {/* Hero Section */}
+      <Hero  />
+ 
     </div>
   );
 }
