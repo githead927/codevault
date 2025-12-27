@@ -87,6 +87,7 @@ function Header() {
               <p className='text-xs text-gray-400 '>{course.desc}</p>
             </div>
           ))}
+        
         </ul>
       </NavigationMenuContent>
     </NavigationMenuItem>
