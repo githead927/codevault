@@ -4,7 +4,7 @@ import React from 'react'
 function Hero() {
   return (
     <div className='w-full relative h-screen overflow-hidden'>
-     <img src="/1.gif" alt="hero" width={1000} height={1000} 
+     <img src="/room.gif" alt="hero" width={1000} height={1000} 
      className='w-full h-full object-cover absolute inset-0 '/>
      <div className='absolute w-full flex flex-col items-center mt-22'>
       <h2 className='font-bold text-6xl font-game'>Start Your</h2>
